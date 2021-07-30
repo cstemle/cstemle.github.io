@@ -25,4 +25,9 @@
 #intro{
   text-color: black;
   text-align: center;
+  width: 50%;
+}
+#profilepic{
+width: 50%;
+border-radius: 50%
 }
