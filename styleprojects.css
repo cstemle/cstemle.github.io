@@ -1,0 +1,29 @@
+#projectbtn{
+    background-color: black;
+    color: whitesmoke;
+    border-color: white;
+}
+    
+
+#projectImage{
+    height: 100%;
+    width: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    }
+
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+p{
+    text-align: center;
+}
+
+#busTrack, #pacMen, #eyeMove {
+    text-align: center;
+}
