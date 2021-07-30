@@ -16,3 +16,9 @@
   transform: translate(-50%, -50%);
   color: white;
 }
+
+#btn{
+    background-color: black;
+    color: whitesmoke;
+    border-color: white;
+}
